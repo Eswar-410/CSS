@@ -1,0 +1,8 @@
+input[type]{
+	color:purple;
+}
+
+a[href]{
+	color:white;
+	background-color:red;
+}
