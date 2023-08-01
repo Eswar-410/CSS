@@ -1,0 +1,114 @@
+.start{
+	font-family: cursive;
+	font-size: 30px;
+	font-weight: bold;
+	color:orange;
+	text-align:center;
+	padding-top:90px;
+}
+
+.qwer{
+	padding-left:500px;
+    padding-top:5px;
+}
+
+.btn{
+	background-color: lightblue;
+	size: 30px;
+
+}
+.p{
+	padding-left:850px;
+}
+
+.div{
+	height: 300px;
+	width:1250px;
+
+	background-color: lightblue; 
+	text-align: center;
+    font-family: cursive;
+}
+.div1{
+	float: left;
+
+	height: 200px;
+	width: 150px;
+	background-color:lightblue; 
+}
+.div2{
+	float: left;
+
+	height: 200px;
+	width: 150px;
+	background-color:lightblue; 
+}
+.div3{
+	float: left;
+
+	height: 200px;
+	width: 150px;
+	background-color:blue; 
+}.div4{
+	float: left;
+
+	height: 200px;
+	width: 150px;
+	background-color:white; 
+}
+.div5{
+	float: left;
+
+	height: 200px;
+	width: 150px;
+	background-color:blue; 
+}
+.div5{
+	float: left;
+
+	height: 200px;
+	width: 150px;
+	background-color:blue; 
+}
+.div6{float: left;
+
+	height: 200px;
+	width: 150px;
+	background-color:white; 
+}
+
+.pre{
+	font-family: cursive;
+	font-size: 30px;
+	font-weight: bold;
+
+}
+
+
+.pre1{
+	font-family: Courier New;
+	font-size:20px;
+	
+
+}
+
+.pre2{
+	font-family: Georgia;
+	font-size: 20px;
+	
+}
+.bag{
+	float: left;
+}
+
+.bag1{
+	float: left;
+}
+
+.bag2{
+	float:right;
+}
+
+.part{
+	
+}

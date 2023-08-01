@@ -1,9 +1,10 @@
-a:link{
+a:link:{
 	color:orange;
 }
-a:visited{
-	color:green;
+a:visited:{
+	color:brown;
 }
+ 
 a:hover{
 	color:red;
 	font-size:40px;
